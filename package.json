@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "author": "PainOchoco",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "nodemw": "^0.12.2",
     "pako": "^1.0.10",
     "qrcode": "^1.4.4",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "superagent": "^5.1.2",
     "tempy": "^0.3.0",
     "turndown": "^5.0.3",
